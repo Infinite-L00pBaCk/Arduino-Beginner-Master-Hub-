@@ -13,7 +13,7 @@ Encountering errors is a normal part of learning to code and build circuits. Don
 
 ---
 
-## ⚡ Hardware / Circuit Errors
+## ⚡ Hardware / Circuit Errors 
 
 | ❌ Symptom | 🔍 Possible Cause | 🛠️ How to Fix |
 | :--- | :--- | :--- |
