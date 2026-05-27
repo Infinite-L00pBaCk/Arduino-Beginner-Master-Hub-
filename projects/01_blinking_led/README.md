@@ -2,7 +2,7 @@
 
 Welcome to your very first Arduino project! The "Blink" sketch is the "Hello World" of hardware. By completing this, you'll prove that your Arduino works, your computer can talk to it, and you know how to wire a basic circuit.
 
-## 📦 Component List
+## 📦 Component List  
 - 1x Arduino Uno
 - 1x Breadboard
 - 1x LED (Any color)
