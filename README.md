@@ -9,7 +9,7 @@
 
 <hr>
 
-## 🌟 Introduction  
+## 🌟 Introduction
 
 Welcome to the **Arduino-Beginner-Master-Hub**! If you've just bought your first Arduino and are wondering *"What now?"* — you are in the exact right place. 
 
