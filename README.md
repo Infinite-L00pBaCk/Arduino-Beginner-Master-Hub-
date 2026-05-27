@@ -5,6 +5,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
   [![Beginner Friendly](https://img.shields.io/badge/Skill_Level-Beginner-brightgreen.svg)]()
+  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FInfinite-L00pBaCk%2FArduino-Beginner-Master-Hub-&label=VISITORS&labelColor=%23555555&countColor=%2300979d)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FInfinite-L00pBaCk%2FArduino-Beginner-Master-Hub-)
 </div>
 
 <hr>
