@@ -1,6 +1,6 @@
-# 🔧 Arduino Troubleshooting Guide
+# 🔧 Arduino Troubleshooting Guide 
 
-Encountering errors is a normal part of learning to code and build circuits. Don't panic! Use this guide to diagnose and fix the most common beginner issues.
+Encountering errors is a normal part of learning to code and build circuits. Don't panic! Use this guide to diagnose and fix the most common beginner issues..
 
 ## 💻 Software / IDE Errors
 
@@ -13,7 +13,7 @@ Encountering errors is a normal part of learning to code and build circuits. Don
 
 ---
 
-## ⚡ Hardware / Circuit Errors
+## ⚡ Hardware / Circuit Errors 
 
 | ❌ Symptom | 🔍 Possible Cause | 🛠️ How to Fix |
 | :--- | :--- | :--- |

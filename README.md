@@ -21,7 +21,7 @@ This repository is designed to be **self-contained**. You will never need to lea
 
 ---
 
-## 🗺️ Roadmap: Your Learning Journey
+## 🗺️ Roadmap:- Your Learning Journey
 
 Follow this structured path to go from zero to building your own interactive projects.
 
@@ -43,7 +43,7 @@ Follow this structured path to go from zero to building your own interactive pro
 
 ---
 
-## 🛠️ Hardware Checklist
+## 🛠️ Hardware Checklist:-
 
 Before we begin coding, you'll need some physical components. Here is the ultimate starter kit checklist:
 
