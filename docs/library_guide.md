@@ -24,7 +24,7 @@ This is the best way to install standard, popular libraries that are officially 
    - **Important:** If a pop-up asks if you want to "Install all dependencies", always click **Yes**. This installs other libraries that your main library needs to function.
 
 4. **Use it in your code:**
-   - You can now add the library to the very top of your sketch using `#include <LibraryName.h>`.
+   - You can now add the library to the very top of your sketch using `#include <LibraryName.h>`.  
 
 ---
 
