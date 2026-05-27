@@ -1,6 +1,6 @@
 # 📖 Arduino Syntax Cheat Sheet
 
-This guide covers the essential built-in functions and data types you will use in almost every Arduino project. 
+This guide covers the essential built-in functions and data types you will use in almost every Arduino project.
 
 ---
 
