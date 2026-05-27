@@ -24,7 +24,7 @@ Welcome to your very first Arduino project! The "Blink" sketch is the "Hello Wor
 
 ## 🧠 Code Explanation
 
-Let's break down exactly what the `01_blinking_led.ino` code is doing:
+Let's break down exactly what the `01_blinking_led.ino` code is doing:-
 
 - `const int LED_PIN = 13;` 
   We create a constant variable to store our pin number. It's much easier to remember `LED_PIN` than the number 13.
