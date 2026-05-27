@@ -11,7 +11,7 @@ Welcome to your very first Arduino project! The "Blink" sketch is the "Hello Wor
 
 ---
 
-## 🔌 Circuit Connection Guide
+## 🔌 Circuit Connection Guide  
 
 1. **GND (Ground):** Connect a black wire from any `GND` pin on the Arduino to the negative (blue) rail on the breadboard.
 2. **LED Placement:** Place the LED on the breadboard. 
