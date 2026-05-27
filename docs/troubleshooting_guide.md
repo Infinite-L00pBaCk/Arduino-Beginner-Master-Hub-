@@ -1,4 +1,4 @@
-# 🔧 Arduino Troubleshooting Guide
+# 🔧 Arduino Troubleshooting Guide 
 
 Encountering errors is a normal part of learning to code and build circuits. Don't panic! Use this guide to diagnose and fix the most common beginner issues.
 
