@@ -1,4 +1,4 @@
-# 📚 How to Install Arduino Libraries
+# 📚 How to Install Arduino Libraries 
 
 As you get into more advanced projects, you will want to use components like LCD screens, Servo motors, or fancy temperature sensors. These components require **Libraries** — pre-written bundles of code that make it super easy to talk to the hardware without having to write hundreds of lines of complex math yourself!
 
