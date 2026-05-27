@@ -92,6 +92,7 @@ To write and upload code to your Arduino, you need the official Arduino IDE (Int
 
 Don't remember how to write a specific command? We've got you covered:
 - 📖 **[Arduino Syntax Cheat Sheet](./docs/arduino_syntax_cheatsheet.md)**
+- 📚 **[How to Install Libraries](./docs/library_guide.md)**
 - 🔧 **[Troubleshooting Guide](./docs/troubleshooting_guide.md)**
 
 ---
