@@ -63,3 +63,6 @@ I2C LCD Pin → Arduino Pin
 - Display live sensor readings (temperature, distance)
 - Build a simple menu system with a button
 - Show a scrolling ticker message using `lcd.scrollDisplayLeft()`
+
+<!-- Hub Update -->
+
