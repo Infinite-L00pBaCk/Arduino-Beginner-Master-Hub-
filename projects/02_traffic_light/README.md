@@ -36,3 +36,6 @@ In this project, we step up from a single LED to controlling multiple outputs at
   2. Turn Green `LOW`, turn Yellow `HIGH`, wait 2 seconds.
   3. Turn Yellow `LOW`, turn Red `HIGH`, wait 5 seconds.
   4. Turn Red `LOW` (then the loop restarts back to Green!)
+
+<!-- Hub Update -->
+
