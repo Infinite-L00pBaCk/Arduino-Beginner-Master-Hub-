@@ -60,3 +60,6 @@ Arduino Pin 13 → 220Ω Resistor → LED (long leg/anode) → LED (short leg/ca
 - Change the delay to `500` — the LED blinks twice as fast
 - Add a second LED on pin 12 and alternate them
 - Make an SOS pattern: short-short-short long-long-long short-short-short
+
+<!-- Hub Update -->
+
