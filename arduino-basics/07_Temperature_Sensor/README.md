@@ -70,3 +70,6 @@ DHT11 Pin → Arduino
 - Display readings on the LCD from Project 06
 - Log data to Serial Plotter (Tools → Serial Plotter) for a live graph
 - Trigger a fan/LED when temperature exceeds a threshold
+
+<!-- Hub Update -->
+
