@@ -17,3 +17,6 @@ A working clock on a 16x2 LCD that counts hours, minutes, and seconds.
 ---
 
 These projects are great starting points — extend them with the "Try It Yourself" challenges in each folder's README!
+
+<!-- Hub Update -->
+
