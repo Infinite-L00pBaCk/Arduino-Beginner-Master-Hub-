@@ -33,3 +33,6 @@ The HC-SR04 has 4 pins. Connect them as follows:
   **The Math:** Speed of sound is roughly 0.034 cm per microsecond. We multiply the time by speed to get distance. We divide by 2 because the sound traveled *to* the object and *back*, and we only want the distance to the object!
 - `Serial.print(distance);` 
   Sends the calculated distance number back to your computer screen. You can view it by clicking the magnifying glass icon (Serial Monitor) in the top right of the Arduino IDE.
+
+<!-- Hub Update -->
+
