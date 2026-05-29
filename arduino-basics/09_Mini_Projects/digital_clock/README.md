@@ -64,3 +64,6 @@ This is the **most important pattern** in Arduino programming. Use `millis()` in
 - Add buttons to set hours and minutes manually
 - Add a DS3231 RTC (Real Time Clock) module so time survives power cuts
 - Add an alarm with a buzzer at a set time
+
+<!-- Hub Update -->
+
