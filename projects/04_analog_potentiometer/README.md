@@ -35,3 +35,6 @@ A potentiometer has 3 pins. Place it on the breadboard so each pin is in a diffe
   Normally we use `digitalWrite()` to turn an LED strictly ON or OFF. `analogWrite()` allows us to send a value between `0` (off) and `255` (fully on) to control brightness.
 - **The Problem:** The potentiometer gives us a number from `0 to 1023`, but the LED can only accept a number from `0 to 255`.
 - **The Solution:** We use the Arduino `map()` function! `map(sensorValue, 0, 1023, 0, 255)` takes the large number range from the knob and mathematically squishes it down to perfectly fit the smaller number range of the LED.
+
+<!-- Hub Update -->
+
