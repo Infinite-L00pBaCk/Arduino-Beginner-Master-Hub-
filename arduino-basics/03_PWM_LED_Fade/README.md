@@ -59,3 +59,6 @@ OFF        (0): ░░░░░░░░░░░░░░░░    0% duty cycl
 - Control brightness with a potentiometer on A0 using `analogRead()`
 - Create a "breathing" effect with a sine wave pattern
 - Fade two LEDs in opposite directions simultaneously
+
+<!-- Hub Update -->
+
