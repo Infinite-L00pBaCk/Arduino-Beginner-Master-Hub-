@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Arduino-Beginner-Master-Hub</h1>
+  <h1>🚀 Arduino-Beginner-Master-Hub</h1> 
   <p><b>The ultimate, self-contained, one-stop resource for absolute beginners in Arduino.</b></p>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
