@@ -29,14 +29,14 @@ Follow this structured path to go from zero to building your own interactive pro
 ### 🟢 Level 1: The Basics (Digital I/O)
 *Get familiar with the hardware and basic coding concepts.*
 - [x] Hardware Setup & Software Installation (See below)
-- [ ] [Project 01: Blinking an LED](./projects/01_blinking_led/)
-- [ ] [Project 02: Traffic Light Simulator](./projects/02_traffic_light/)
-- [ ] [Project 03: Button Control (Digital Input)](./projects/03_button_control/)
+- [x] [Project 01: Blinking an LED](./projects/01_blinking_led/)
+- [x] [Project 02: Traffic Light Simulator](./projects/02_traffic_light/)
+- [x] [Project 03: Button Control (Digital Input)](./projects/03_button_control/)
 
 ### 🟡 Level 2: Sensors & Analog Magic
 *Learn how to read data from the real world.*
-- [ ] [Project 04: Analog Potentiometer](./projects/04_analog_potentiometer/)
-- [ ] [Project 05: Ultrasonic Distance Sensor](./projects/05_ultrasonic_distance/)
+- [x] [Project 04: Analog Potentiometer](./projects/04_analog_potentiometer/)
+- [x] [Project 05: Ultrasonic Distance Sensor](./projects/05_ultrasonic_distance/)
 
 ### 🔴 Level 3: Actuators & Mini-Projects
 *Make things move and combine components.*
