@@ -40,3 +40,6 @@ In the Blink project, the Arduino only sent data *out*. Now, we are going to rea
   Reads the voltage at Pin 2. If the button is pressed, 5V flows to the pin, and it reads `HIGH`. If unpressed, it reads `LOW`.
 - `if (buttonState == HIGH)` 
   A conditional statement. "IF the button is pressed, THEN execute the code in the brackets (turn LED on). ELSE, do something different (turn LED off)."
+
+<!-- Hub Update -->
+
