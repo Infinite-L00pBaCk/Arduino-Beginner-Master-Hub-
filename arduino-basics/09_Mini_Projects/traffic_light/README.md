@@ -53,3 +53,6 @@ Pin  9 → 220Ω → Green LED  → GND
 - Add a pedestrian crossing button that interrupts to show a walk signal
 - Add a buzzer that beeps during GREEN for visually impaired simulation
 - Add a second set of lights for a 4-way intersection
+
+<!-- Hub Update -->
+
