@@ -67,3 +67,6 @@ HC-SR04 Pin → Arduino Pin
 - Add an LED or buzzer that activates when distance < 15 cm
 - Display the distance on an LCD screen
 - Build a full obstacle-avoiding robot with 2 DC motors
+
+<!-- Hub Update -->
+
