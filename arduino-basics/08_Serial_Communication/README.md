@@ -56,3 +56,6 @@ Send commands from your PC to Arduino via Serial Monitor. Two-way UART communica
 - Add more commands like `HELP`, `RESET`, or `READ` (to print sensor data)
 - Echo everything the user types back with a prefix
 - Control multiple LEDs with commands like `LED1 ON`, `LED2 OFF`
+
+<!-- Hub Update -->
+
