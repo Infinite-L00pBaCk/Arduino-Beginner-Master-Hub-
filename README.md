@@ -40,7 +40,8 @@ Follow this structured path to go from zero to building your own interactive pro
 
 ### 🔴 Level 3: Actuators & Mini-Projects
 *Make things move and combine components.*
-- *(Coming Soon!)* Motors, LCDs, and complete mini-projects.
+- [x] [Project 06: LCD Display (I2C)](./projects/06_lcd_display/)
+- [x] [Project 07: Servo Motor Control](./projects/07_servo_motor/)
 
 ---
 
@@ -104,7 +105,4 @@ Don't remember how to write a specific command? We've got you covered:
 </div>
 
 <!-- Hub Update -->
-
-
 <!-- Daily Streak Maintenance -->
-
