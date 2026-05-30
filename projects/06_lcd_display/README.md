@@ -31,3 +31,6 @@ The I2C backpack has 4 pins on the back. Connect them directly to the Arduino:
   These commands wake up the screen and turn on the background light.
 - `lcd.setCursor(column, row);`
   Tells the screen where to start typing. **Remember:** Computers start counting at 0! So `setCursor(0, 0)` is the top left, and `setCursor(0, 1)` is the bottom left.
+
+<!-- Daily Streak Maintenance -->
+
