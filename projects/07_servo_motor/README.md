@@ -28,3 +28,6 @@ The servo motor has a single cable ending in 3 colored wires:
   Inside `setup()`, this tells the Arduino which pin the servo's orange signal wire is connected to.
 - `myServo.write(90);`
   This is the magic command! It tells the servo to physically rotate its arm to the 90-degree position.
+
+<!-- Daily Streak Maintenance -->
+
