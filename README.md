@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino Logo" width="200" style="margin-bottom: 20px;"/>
   <h1>🚀 Arduino-Beginner-Master-Hub</h1> 
   <p><b>The ultimate, self-contained, one-stop resource for absolute beginners in Arduino.</b></p>
 
@@ -22,34 +23,23 @@ This repository is designed to be **self-contained**. You will never need to lea
 
 ---
 
-## 🗺️ Roadmap:- Your Learning Journey
+## 🗺️ Roadmap: Your Learning Journey
 
 Follow this structured path to go from zero to building your own interactive projects.
 
-### 🟢 Level 1: The Basics (Digital I/O)
-*Get familiar with the hardware and basic coding concepts.*
-- [x] Hardware Setup & Software Installation (See below)
-- [x] [Project 01: Blinking an LED](./projects/01_blinking_led/)
-- [x] [Project 02: Traffic Light Simulator](./projects/02_traffic_light/)
-- [x] [Project 03: Button Control (Digital Input)](./projects/03_button_control/)
-
-### 🟡 Level 2: Sensors & Analog Magic
-*Learn how to read data from the real world.*
-- [x] [Project 04: Analog Potentiometer](./projects/04_analog_potentiometer/)
-- [x] [Project 05: Ultrasonic Distance Sensor](./projects/05_ultrasonic_distance/)
-
-### 🔴 Level 3: Actuators & Mini-Projects
-*Make things move and combine components.*
-- [x] [Project 06: LCD Display (I2C)](./projects/06_lcd_display/)
-- [x] [Project 07: Servo Motor Control](./projects/07_servo_motor/)
-
-### 🔵 Level 4: Advanced Components & Sound
-*Explore sound generation, light sensing, and color mixing.*
-- [x] [Project 08: Passive Buzzer (Melodies)](./projects/08_passive_buzzer/)
-- [x] [Project 09: Photoresistor (Light Sensor)](./projects/09_photoresistor/)
-- [x] [Project 10: RGB LED (Color Mixing)](./projects/10_rgb_led/)
-
-
+| Level | Project | Description | Status |
+| :--- | :--- | :--- | :---: |
+| **🟢 1: Basics (Digital)** | Setup | Software & Hardware Prep | ✅ |
+| | [Project 01: Blinking an LED](./projects/01_blinking_led/) | Your first line of code | ✅ |
+| | [Project 02: Traffic Light Simulator](./projects/02_traffic_light/) | Timers and multiple outputs | ✅ |
+| | [Project 03: Button Control](./projects/03_button_control/) | Reading digital inputs | ✅ |
+| **🟡 2: Sensors (Analog)** | [Project 04: Analog Potentiometer](./projects/04_analog_potentiometer/) | Reading analog dials | ✅ |
+| | [Project 05: Ultrasonic Distance](./projects/05_ultrasonic_distance/) | Measuring distance with sound | ✅ |
+| **🔴 3: Actuators & Screens**| [Project 06: LCD Display (I2C)](./projects/06_lcd_display/) | Printing text to a screen | ✅ |
+| | [Project 07: Servo Motor Control](./projects/07_servo_motor/) | Moving physical objects | ✅ |
+| **🔵 4: Advanced Components**| [Project 08: Passive Buzzer](./projects/08_passive_buzzer/) | Generating musical notes | ✅ |
+| | [Project 09: Photoresistor](./projects/09_photoresistor/) | Sensing ambient light | ✅ |
+| | [Project 10: RGB LED (Color Mixing)](./projects/10_rgb_led/) | Mixing primary colors | ✅ |
 ---
 
 ## 🛠️ Hardware Checklist:-
