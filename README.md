@@ -43,6 +43,13 @@ Follow this structured path to go from zero to building your own interactive pro
 - [x] [Project 06: LCD Display (I2C)](./projects/06_lcd_display/)
 - [x] [Project 07: Servo Motor Control](./projects/07_servo_motor/)
 
+### 🔵 Level 4: Advanced Components & Sound
+*Explore sound generation, light sensing, and color mixing.*
+- [x] [Project 08: Passive Buzzer (Melodies)](./projects/08_passive_buzzer/)
+- [x] [Project 09: Photoresistor (Light Sensor)](./projects/09_photoresistor/)
+- [x] [Project 10: RGB LED (Color Mixing)](./projects/10_rgb_led/)
+
+
 ---
 
 ## 🛠️ Hardware Checklist:-
