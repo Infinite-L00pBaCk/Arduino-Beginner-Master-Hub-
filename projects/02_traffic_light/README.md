@@ -37,6 +37,13 @@ In this project, we step up from a single LED to controlling multiple outputs at
   3. Turn Yellow `LOW`, turn Red `HIGH`, wait 5 seconds.
   4. Turn Red `LOW` (then the loop restarts back to Green!)
 
+---
+
+## 🌐 Tinkercad Simulation
+
+Don't have the physical components yet? No problem! You can build and test this exact circuit in your web browser before touching real hardware.
+[Click here to open Tinkercad](https://www.tinkercad.com/) to build this project virtually!
+
 <!-- Hub Update -->
 
 

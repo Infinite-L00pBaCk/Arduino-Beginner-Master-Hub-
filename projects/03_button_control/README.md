@@ -41,6 +41,13 @@ In the Blink project, the Arduino only sent data *out*. Now, we are going to rea
 - `if (buttonState == HIGH)` 
   A conditional statement. "IF the button is pressed, THEN execute the code in the brackets (turn LED on). ELSE, do something different (turn LED off)."
 
+---
+
+## 🌐 Tinkercad Simulation
+
+Don't have the physical components yet? No problem! You can build and test this exact circuit in your web browser before touching real hardware.
+[Click here to open Tinkercad](https://www.tinkercad.com/) to build this project virtually!
+
 <!-- Hub Update -->
 
 

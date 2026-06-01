@@ -4,6 +4,11 @@ Printing data to the computer screen via the Serial Monitor is great, but what i
 
 We are using an **I2C LCD** (Inter-Integrated Circuit). Standard LCDs require 12 to 16 messy wires. An I2C LCD has a tiny backpack chip that reduces this down to just **4 wires**!
 
+## 🌐 Tinkercad Simulation
+
+Don't have the physical components yet? No problem! You can build and test this exact circuit in your web browser before touching real hardware.
+[Click here to open Tinkercad](https://www.tinkercad.com/) to build this project virtually!
+
 ## 📦 Component List
 - 1x Arduino Uno
 - 1x 16x2 LCD Screen with I2C Backpack

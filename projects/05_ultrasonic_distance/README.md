@@ -34,6 +34,13 @@ The HC-SR04 has 4 pins. Connect them as follows:
 - `Serial.print(distance);` 
   Sends the calculated distance number back to your computer screen. You can view it by clicking the magnifying glass icon (Serial Monitor) in the top right of the Arduino IDE.
 
+---
+
+## 🌐 Tinkercad Simulation
+
+Don't have the physical components yet? No problem! You can build and test this exact circuit in your web browser before touching real hardware.
+[Click here to open Tinkercad](https://www.tinkercad.com/) to build this project virtually!
+
 <!-- Hub Update -->
 
 

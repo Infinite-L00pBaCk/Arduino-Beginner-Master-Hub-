@@ -36,6 +36,13 @@ A potentiometer has 3 pins. Place it on the breadboard so each pin is in a diffe
 - **The Problem:** The potentiometer gives us a number from `0 to 1023`, but the LED can only accept a number from `0 to 255`.
 - **The Solution:** We use the Arduino `map()` function! `map(sensorValue, 0, 1023, 0, 255)` takes the large number range from the knob and mathematically squishes it down to perfectly fit the smaller number range of the LED.
 
+---
+
+## 🌐 Tinkercad Simulation
+
+Don't have the physical components yet? No problem! You can build and test this exact circuit in your web browser before touching real hardware.
+[Click here to open Tinkercad](https://www.tinkercad.com/) to build this project virtually!
+
 <!-- Hub Update -->
 
 

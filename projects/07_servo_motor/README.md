@@ -29,5 +29,11 @@ The servo motor has a single cable ending in 3 colored wires:
 - `myServo.write(90);`
   This is the magic command! It tells the servo to physically rotate its arm to the 90-degree position.
 
-<!-- Daily Streak Maintenance -->
+---
 
+## 🌐 Tinkercad Simulation
+
+Don't have the physical components yet? No problem! You can build and test this exact circuit in your web browser before touching real hardware.
+[Click here to open Tinkercad](https://www.tinkercad.com/) to build this project virtually!
+
+<!-- Daily Streak Maintenance -->

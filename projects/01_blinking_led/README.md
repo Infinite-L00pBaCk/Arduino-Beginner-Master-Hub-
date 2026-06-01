@@ -39,6 +39,13 @@ Let's break down exactly what the `01_blinking_led.ino` code is doing:-
 - `delay(1000);` 
   Waits another second before the `loop()` starts all over again!
 
+---
+
+## 🌐 Tinkercad Simulation
+
+Don't have the physical components yet? No problem! You can build and test this exact circuit in your web browser before touching real hardware.
+[Click here to open Tinkercad](https://www.tinkercad.com/) to build this project virtually!
+
 <!-- Hub Update -->
 
 
