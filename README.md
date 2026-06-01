@@ -96,6 +96,7 @@ Don't remember how to write a specific command? We've got you covered:
 - 📖 **[Arduino Syntax Cheat Sheet](./docs/arduino_syntax_cheatsheet.md)**
 - 📚 **[How to Install Libraries](./docs/library_guide.md)**
 - 🧰 **[Component Glossary](./docs/components_glossary.md)**
+- ❓ **[Beginner FAQ](./docs/FAQ.md)**
 - 🔧 **[Troubleshooting Guide](./docs/troubleshooting_guide.md)**
 
 ---
