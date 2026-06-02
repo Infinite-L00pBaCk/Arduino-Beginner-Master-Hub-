@@ -37,8 +37,11 @@ Follow this structured path to go from zero to building your own interactive pro
 | | [Project 15: Tilt Sensor Switch](./projects/15_tilt_sensor/) | Shaking & motion basics | ✅ |
 | **🟡 2: Sensors (Analog)** | [Project 04: Analog Potentiometer](./projects/04_analog_potentiometer/) | Reading analog dials | ✅ |
 | | [Project 05: Ultrasonic Distance](./projects/05_ultrasonic_distance/) | Measuring distance with sound | ✅ |
+| | [Project 17: Flame Sensor / Alarm](./projects/17_flame_sensor/) | Detecting infrared fire light | ✅ |
 | **🔴 3: Actuators & Screens**| [Project 06: LCD Display (I2C)](./projects/06_lcd_display/) | Printing text to a screen | ✅ |
 | | [Project 07: Servo Motor Control](./projects/07_servo_motor/) | Moving physical objects | ✅ |
+| | [Project 16: Relay Switch Control](./projects/16_relay_switch/) | Safely switching high voltages | ✅ |
+| | [Project 18: Stepper Motor Basics](./projects/18_stepper_motor/) | Ultra-precise motor rotation | ✅ |
 | **🔵 4: Advanced Components**| [Project 08: Passive Buzzer](./projects/08_passive_buzzer/) | Generating musical notes | ✅ |
 | | [Project 09: Photoresistor](./projects/09_photoresistor/) | Sensing ambient light | ✅ |
 | | [Project 10: RGB LED (Color Mixing)](./projects/10_rgb_led/) | Mixing primary colors | ✅ |
