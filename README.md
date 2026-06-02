@@ -40,6 +40,9 @@ Follow this structured path to go from zero to building your own interactive pro
 | **🔵 4: Advanced Components**| [Project 08: Passive Buzzer](./projects/08_passive_buzzer/) | Generating musical notes | ✅ |
 | | [Project 09: Photoresistor](./projects/09_photoresistor/) | Sensing ambient light | ✅ |
 | | [Project 10: RGB LED (Color Mixing)](./projects/10_rgb_led/) | Mixing primary colors | ✅ |
+| **🟣 5: Environment & Security**| [Project 11: Joystick Servo](./projects/11_joystick_servo/) | Control robotics with a thumbstick | ✅ |
+| | [Project 12: Keypad Security](./projects/12_keypad_security/) | Password protected alarm system | ✅ |
+| | [Project 13: LCD Weather Station](./projects/13_lcd_weather_station/) | Real-time temperature display | ✅ |
 ---
 
 ## 🛠️ Hardware Checklist:-
