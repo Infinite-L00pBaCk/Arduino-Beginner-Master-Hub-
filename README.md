@@ -33,21 +33,21 @@ Follow this structured path to go from zero to building your own interactive pro
 | | [Project 01: Blinking an LED](./projects/01_blinking_led/) | Your first line of code | ✅ |
 | | [Project 02: Traffic Light Simulator](./projects/02_traffic_light/) | Timers and multiple outputs | ✅ |
 | | [Project 03: Button Control](./projects/03_button_control/) | Reading digital inputs | ✅ |
-| | [Project 14: Fading LED (PWM)](./projects/14_fading_led/) | Analog output via PWM | ✅ |
-| | [Project 15: Tilt Sensor Switch](./projects/15_tilt_sensor/) | Shaking & motion basics | ✅ |
-| **🟡 2: Sensors (Analog)** | [Project 04: Analog Potentiometer](./projects/04_analog_potentiometer/) | Reading analog dials | ✅ |
-| | [Project 05: Ultrasonic Distance](./projects/05_ultrasonic_distance/) | Measuring distance with sound | ✅ |
-| | [Project 17: Flame Sensor / Alarm](./projects/17_flame_sensor/) | Detecting infrared fire light | ✅ |
-| **🔴 3: Actuators & Screens**| [Project 06: LCD Display (I2C)](./projects/06_lcd_display/) | Printing text to a screen | ✅ |
-| | [Project 07: Servo Motor Control](./projects/07_servo_motor/) | Moving physical objects | ✅ |
-| | [Project 16: Relay Switch Control](./projects/16_relay_switch/) | Safely switching high voltages | ✅ |
-| | [Project 18: Stepper Motor Basics](./projects/18_stepper_motor/) | Ultra-precise motor rotation | ✅ |
-| **🔵 4: Advanced Components**| [Project 08: Passive Buzzer](./projects/08_passive_buzzer/) | Generating musical notes | ✅ |
-| | [Project 09: Photoresistor](./projects/09_photoresistor/) | Sensing ambient light | ✅ |
-| | [Project 10: RGB LED (Color Mixing)](./projects/10_rgb_led/) | Mixing primary colors | ✅ |
-| **🟣 5: Environment & Security**| [Project 11: Joystick Servo](./projects/11_joystick_servo/) | Control robotics with a thumbstick | ✅ |
-| | [Project 12: Keypad Security](./projects/12_keypad_security/) | Password protected alarm system | ✅ |
-| | [Project 13: LCD Weather Station](./projects/13_lcd_weather_station/) | Real-time temperature display | ✅ |
+| | [Project 04: Tilt Sensor Switch](./projects/04_tilt_sensor/) | Shaking & motion basics | ✅ |
+| | [Project 05: Fading LED (PWM)](./projects/05_fading_led/) | Analog output via PWM | ✅ |
+| **🟡 2: Sensors (Analog)** | [Project 06: Analog Potentiometer](./projects/06_analog_potentiometer/) | Reading analog dials | ✅ |
+| | [Project 07: Photoresistor](./projects/07_photoresistor/) | Sensing ambient light | ✅ |
+| | [Project 08: Ultrasonic Distance](./projects/08_ultrasonic_distance/) | Measuring distance with sound | ✅ |
+| | [Project 09: Flame Sensor / Alarm](./projects/09_flame_sensor/) | Detecting infrared fire light | ✅ |
+| **🔴 3: Actuators & Screens**| [Project 10: Relay Switch Control](./projects/10_relay_switch/) | Safely switching high voltages | ✅ |
+| | [Project 11: Servo Motor Control](./projects/11_servo_motor/) | Moving physical objects | ✅ |
+| | [Project 12: Stepper Motor Basics](./projects/12_stepper_motor/) | Ultra-precise motor rotation | ✅ |
+| | [Project 13: LCD Display (I2C)](./projects/13_lcd_display/) | Printing text to a screen | ✅ |
+| **🔵 4: Advanced Components**| [Project 14: RGB LED (Color Mixing)](./projects/14_rgb_led/) | Mixing primary colors | ✅ |
+| | [Project 15: Passive Buzzer](./projects/15_passive_buzzer/) | Generating musical notes | ✅ |
+| **🟣 5: Environment & Security**| [Project 16: Joystick Servo](./projects/16_joystick_servo/) | Control robotics with a thumbstick | ✅ |
+| | [Project 17: Keypad Security](./projects/17_keypad_security/) | Password protected alarm system | ✅ |
+| | [Project 18: LCD Weather Station](./projects/18_lcd_weather_station/) | Real-time temperature display | ✅ |
 ---
 
 ## 🛠️ Hardware Checklist:-
