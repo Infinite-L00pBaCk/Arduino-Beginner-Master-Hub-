@@ -42,3 +42,6 @@ The I2C backpack has 4 pins on the back. Connect them directly to the Arduino:
 
 <!-- Daily Streak Maintenance -->
 
+
+<!-- Daily Streak Maintenance -->
+
