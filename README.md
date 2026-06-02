@@ -33,6 +33,8 @@ Follow this structured path to go from zero to building your own interactive pro
 | | [Project 01: Blinking an LED](./projects/01_blinking_led/) | Your first line of code | ✅ |
 | | [Project 02: Traffic Light Simulator](./projects/02_traffic_light/) | Timers and multiple outputs | ✅ |
 | | [Project 03: Button Control](./projects/03_button_control/) | Reading digital inputs | ✅ |
+| | [Project 14: Fading LED (PWM)](./projects/14_fading_led/) | Analog output via PWM | ✅ |
+| | [Project 15: Tilt Sensor Switch](./projects/15_tilt_sensor/) | Shaking & motion basics | ✅ |
 | **🟡 2: Sensors (Analog)** | [Project 04: Analog Potentiometer](./projects/04_analog_potentiometer/) | Reading analog dials | ✅ |
 | | [Project 05: Ultrasonic Distance](./projects/05_ultrasonic_distance/) | Measuring distance with sound | ✅ |
 | **🔴 3: Actuators & Screens**| [Project 06: LCD Display (I2C)](./projects/06_lcd_display/) | Printing text to a screen | ✅ |
