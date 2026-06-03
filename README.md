@@ -48,6 +48,8 @@ Follow this structured path to go from zero to building your own interactive pro
 | **🟣 5: Environment & Security**| [Project 16: Joystick Servo](./projects/16_joystick_servo/) | Control robotics with a thumbstick | ✅ |
 | | [Project 17: Keypad Security](./projects/17_keypad_security/) | Password protected alarm system | ✅ |
 | | [Project 18: LCD Weather Station](./projects/18_lcd_weather_station/) | Real-time temperature display | ✅ |
+| **🌐 6: IoT & WiFi (ESP8266)**| [Project 19: WiFi Scanner](./projects/19_wifi_scanner/) | Detect nearby WiFi networks | ✅ |
+| | [Project 20: Smart Web Server](./projects/20_web_server_led/) | Control an LED from your phone | ✅ |
 ---
 
 ## 🛠️ Hardware Checklist:-
@@ -100,6 +102,7 @@ To write and upload code to your Arduino, you need the official Arduino IDE (Int
 Don't remember how to write a specific command? We've got you covered:
 - 📖 **[Arduino Syntax Cheat Sheet](./docs/arduino_syntax_cheatsheet.md)**
 - 📚 **[How to Install Libraries](./docs/library_guide.md)**
+- 📡 **[How to Setup ESP8266 Boards](./docs/esp_board_setup.md)**
 - 🧰 **[Component Glossary](./docs/components_glossary.md)**
 - 🧹 **[Clean Code Guide](./docs/clean_code_guide.md)**
 - ❓ **[Beginner FAQ](./docs/FAQ.md)**
