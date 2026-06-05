@@ -50,6 +50,8 @@ Follow this structured path to go from zero to building your own interactive pro
 | | [Project 18: LCD Weather Station](./projects/18_lcd_weather_station/) | Real-time temperature display | ✅ |
 | **🌐 6: IoT & WiFi (ESP8266)**| [Project 19: WiFi Scanner](./projects/19_wifi_scanner/) | Detect nearby WiFi networks | ✅ |
 | | [Project 20: Smart Web Server](./projects/20_web_server_led/) | Control an LED from your phone | ✅ |
+| **🧪 7: Advanced Sensors**| [Project 21: PIR Motion Sensor](./projects/21_pir_motion/) | Detect human movement | ✅ |
+| | [Project 22: Water Level Sensor](./projects/22_water_level/) | Detect water depth & flooding | ✅ |
 ---
 
 ## 🛠️ Hardware Checklist:-
