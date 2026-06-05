@@ -91,3 +91,6 @@ DHT11 Pin → Arduino
 
 <!-- Daily Streak Maintenance -->
 
+
+<!-- Backdated Streak Recovery -->
+
