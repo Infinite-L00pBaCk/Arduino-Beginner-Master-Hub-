@@ -56,6 +56,14 @@ Follow this structured path to go from zero to building your own interactive pro
 | | [Project 24: RFID Door Lock](./projects/24_rfid_reader/) | Scan smart cards and fobs | ✅ |
 ---
 
+## 🤝 How to Contribute
+
+We are building the ultimate open-source community for beginners! If you want to add your own project to the Master Hub, we would love to have you. 
+
+Please read our **[Contributing Guide](./CONTRIBUTING.md)** to learn how to structure your project and submit a Pull Request. We also ask that all members review our **[Code of Conduct](./CODE_OF_CONDUCT.md)** to keep this a safe and welcoming space.
+
+---
+
 ## 🛠️ Hardware Checklist:-
 
 Before we begin coding, you'll need some physical components. Here is the ultimate starter kit checklist:
