@@ -54,6 +54,7 @@ Follow this structured path to go from zero to building your own interactive pro
 | | [Project 22: Water Level Sensor](./projects/22_water_level/) | Detect water depth & flooding | ✅ |
 | | [Project 23: IR Remote Control](./projects/23_ir_remote/) | Decode TV remote signals | ✅ |
 | | [Project 24: RFID Door Lock](./projects/24_rfid_reader/) | Scan smart cards and fobs | ✅ |
+| | [Project 25: Reaction Time Game](./projects/25_reaction_time_game/) | Test your reflexes with a 7-segment display | ✅ |
 ---
 
 ## 🤝 How to Contribute
