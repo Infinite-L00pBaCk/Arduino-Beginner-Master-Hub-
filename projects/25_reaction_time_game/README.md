@@ -36,3 +36,6 @@ Connect the pins of the 7-segment display to the Arduino through 220-ohm resisto
 - `millis()` is used to keep track of time and calculate the reaction time.
 - The game counts down 3.. 2.. 1.. on the display, then goes blank for a random time. When it shows '8' (all segments on as a signal), the player must press the React button!
 - A score based on the reaction time is then shown (1 is fastest, 9 is slowest). Exact time is printed to the Serial Monitor.
+
+<!-- Streak Recovery 2026-06-11 -->
+
