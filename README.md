@@ -52,9 +52,10 @@ Follow this structured path to go from zero to building your own interactive pro
 | | [Project 20: Smart Web Server](./projects/20_web_server_led/) | Control an LED from your phone | ✅ |
 | **🧪 7: Advanced Sensors**| [Project 21: PIR Motion Sensor](./projects/21_pir_motion/) | Detect human movement | ✅ |
 | | [Project 22: Water Level Sensor](./projects/22_water_level/) | Detect water depth & flooding | ✅ |
-| | [Project 23: IR Remote Control](./projects/23_ir_remote/) | Decode TV remote signals | ✅ |
 | | [Project 24: RFID Door Lock](./projects/24_rfid_reader/) | Scan smart cards and fobs | ✅ |
-| | [Project 25: Reaction Time Game](./projects/25_reaction_time_game/) | Test your reflexes with a 7-segment display | ✅ |
+| **🕹️ 8: Community Projects**| [Project 25: Reaction Time Game](./projects/25_reaction_time_game/) | Test your reflexes (Community) | ✅ |
+| | [Project 26: Soil Moisture Sensor](./projects/26_soil_moisture/) | Smart plant watering monitor | ✅ |
+| | [Project 27: 4x4 Matrix Keypad](./projects/27_matrix_keypad/) | Read 16 buttons with 8 pins | ✅ |
 ---
 
 ## 🤝 How to Contribute
@@ -158,4 +159,7 @@ Don't remember how to write a specific command? We've got you covered:
 
 
 <!-- Streak Recovery 2026-06-10 -->
+
+
+<!-- Streak Recovery 2026-06-11 -->
 
