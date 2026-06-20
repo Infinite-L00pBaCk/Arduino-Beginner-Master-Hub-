@@ -14,3 +14,7 @@ Stores and releases electrical energy, acting like a tiny battery.
 ### 3. Diode
 Allows electricity to flow in only one direction, acting like a one-way valve.
 
+
+### 4. Light Emitting Diode (LED)
+A special type of diode that emits light when current passes through it.
+
