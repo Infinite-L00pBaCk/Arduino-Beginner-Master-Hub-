@@ -10,3 +10,7 @@ Limits the flow of electrical current to protect delicate components.
 ### 2. Capacitor
 Stores and releases electrical energy, acting like a tiny battery.
 
+
+### 3. Diode
+Allows electricity to flow in only one direction, acting like a one-way valve.
+
