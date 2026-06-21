@@ -22,3 +22,7 @@ A special type of diode that emits light when current passes through it.
 ### 5. Transistor
 Acts as a digital switch or amplifier for electrical signals.
 
+
+### 6. Breadboard
+A plug-and-play board for building temporary circuits without soldering.
+
