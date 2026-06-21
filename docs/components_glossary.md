@@ -18,3 +18,7 @@ Allows electricity to flow in only one direction, acting like a one-way valve.
 ### 4. Light Emitting Diode (LED)
 A special type of diode that emits light when current passes through it.
 
+
+### 5. Transistor
+Acts as a digital switch or amplifier for electrical signals.
+
