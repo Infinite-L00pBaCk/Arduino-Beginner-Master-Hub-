@@ -26,3 +26,7 @@ Acts as a digital switch or amplifier for electrical signals.
 ### 6. Breadboard
 A plug-and-play board for building temporary circuits without soldering.
 
+
+### 7. Jumper Wires
+Used to connect different components together on a breadboard.
+
