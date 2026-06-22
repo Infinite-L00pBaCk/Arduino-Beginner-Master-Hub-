@@ -30,3 +30,7 @@ A plug-and-play board for building temporary circuits without soldering.
 ### 7. Jumper Wires
 Used to connect different components together on a breadboard.
 
+
+### 8. Arduino Uno
+The microcontroller board that acts as the brain for your projects.
+
