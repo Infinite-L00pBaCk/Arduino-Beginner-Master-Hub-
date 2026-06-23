@@ -38,3 +38,7 @@ The microcontroller board that acts as the brain for your projects.
 ### 9. Microcontroller
 A compact integrated circuit designed to govern a specific operation.
 
+
+### 10. Integrated Circuit (IC)
+A tiny chip containing thousands of microscopic transistors.
+
