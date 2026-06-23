@@ -34,3 +34,7 @@ Used to connect different components together on a breadboard.
 ### 8. Arduino Uno
 The microcontroller board that acts as the brain for your projects.
 
+
+### 9. Microcontroller
+A compact integrated circuit designed to govern a specific operation.
+
