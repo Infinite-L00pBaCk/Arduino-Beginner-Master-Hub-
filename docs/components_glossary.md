@@ -46,3 +46,7 @@ A tiny chip containing thousands of microscopic transistors.
 ### 11. Potentiometer
 A variable resistor that you can turn like a volume knob.
 
+
+### 12. Photoresistor (LDR)
+A sensor that changes its resistance based on the amount of light.
+
