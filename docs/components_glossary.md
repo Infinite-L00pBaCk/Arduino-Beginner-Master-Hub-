@@ -42,3 +42,7 @@ A compact integrated circuit designed to govern a specific operation.
 ### 10. Integrated Circuit (IC)
 A tiny chip containing thousands of microscopic transistors.
 
+
+### 11. Potentiometer
+A variable resistor that you can turn like a volume knob.
+
