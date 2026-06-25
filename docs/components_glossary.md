@@ -54,3 +54,7 @@ A sensor that changes its resistance based on the amount of light.
 ### 13. Thermistor
 A temperature sensor whose resistance changes with heat.
 
+
+### 14. Piezo Buzzer
+A small speaker that generates sound when voltage is applied.
+
