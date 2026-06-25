@@ -50,3 +50,7 @@ A variable resistor that you can turn like a volume knob.
 ### 12. Photoresistor (LDR)
 A sensor that changes its resistance based on the amount of light.
 
+
+### 13. Thermistor
+A temperature sensor whose resistance changes with heat.
+
