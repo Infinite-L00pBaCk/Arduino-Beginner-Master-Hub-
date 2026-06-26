@@ -58,3 +58,7 @@ A temperature sensor whose resistance changes with heat.
 ### 14. Piezo Buzzer
 A small speaker that generates sound when voltage is applied.
 
+
+### 15. Push Button
+A simple mechanical switch that closes a circuit when pressed.
+
