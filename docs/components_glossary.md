@@ -62,3 +62,7 @@ A small speaker that generates sound when voltage is applied.
 ### 15. Push Button
 A simple mechanical switch that closes a circuit when pressed.
 
+
+### 16. Relay
+An electromechanical switch used to control high-voltage devices.
+
