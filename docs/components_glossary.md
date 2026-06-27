@@ -66,3 +66,7 @@ A simple mechanical switch that closes a circuit when pressed.
 ### 16. Relay
 An electromechanical switch used to control high-voltage devices.
 
+
+### 17. Servo Motor
+A motor that can rotate to precise angles, usually between 0 and 180 degrees.
+
