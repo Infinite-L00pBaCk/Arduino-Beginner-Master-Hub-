@@ -78,3 +78,7 @@ A motor that rotates in discrete, precise steps.
 ### 19. DC Motor
 A standard electric motor that spins continuously when powered.
 
+
+### 20. Ultrasonic Sensor (HC-SR04)
+Measures distance by bouncing sound waves off objects.
+
