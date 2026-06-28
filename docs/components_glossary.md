@@ -74,3 +74,7 @@ A motor that can rotate to precise angles, usually between 0 and 180 degrees.
 ### 18. Stepper Motor
 A motor that rotates in discrete, precise steps.
 
+
+### 19. DC Motor
+A standard electric motor that spins continuously when powered.
+
