@@ -82,3 +82,7 @@ A standard electric motor that spins continuously when powered.
 ### 20. Ultrasonic Sensor (HC-SR04)
 Measures distance by bouncing sound waves off objects.
 
+
+### 21. PIR Motion Sensor
+Detects movement by sensing infrared heat emitted by bodies.
+
