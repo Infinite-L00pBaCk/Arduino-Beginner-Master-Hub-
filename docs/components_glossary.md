@@ -86,3 +86,7 @@ Measures distance by bouncing sound waves off objects.
 ### 21. PIR Motion Sensor
 Detects movement by sensing infrared heat emitted by bodies.
 
+
+### 22. Humidity Sensor (DHT11)
+Measures the amount of water vapor in the air.
+
