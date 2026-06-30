@@ -94,3 +94,7 @@ Measures the amount of water vapor in the air.
 ### 23. Tilt Sensor
 Detects orientation or inclination using a tiny metal ball inside.
 
+
+### 24. Flame Sensor
+Detects the specific infrared light wavelengths emitted by fire.
+
