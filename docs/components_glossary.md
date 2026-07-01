@@ -98,3 +98,7 @@ Detects orientation or inclination using a tiny metal ball inside.
 ### 24. Flame Sensor
 Detects the specific infrared light wavelengths emitted by fire.
 
+
+### 25. Real-Time Clock (RTC)
+Keeps accurate track of the date and time using a coin-cell battery.
+
