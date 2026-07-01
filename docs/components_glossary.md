@@ -102,3 +102,7 @@ Detects the specific infrared light wavelengths emitted by fire.
 ### 25. Real-Time Clock (RTC)
 Keeps accurate track of the date and time using a coin-cell battery.
 
+
+### 26. LCD Display (16x2)
+A screen capable of displaying 2 rows of 16 text characters.
+
