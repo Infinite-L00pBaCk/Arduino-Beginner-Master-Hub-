@@ -106,3 +106,7 @@ Keeps accurate track of the date and time using a coin-cell battery.
 ### 26. LCD Display (16x2)
 A screen capable of displaying 2 rows of 16 text characters.
 
+
+### 27. 7-Segment Display
+An array of 7 LEDs arranged to display numbers 0-9.
+
