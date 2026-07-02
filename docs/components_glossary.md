@@ -110,3 +110,7 @@ A screen capable of displaying 2 rows of 16 text characters.
 ### 27. 7-Segment Display
 An array of 7 LEDs arranged to display numbers 0-9.
 
+
+### 28. Membrane Keypad
+A flat array of buttons used for number and code entry.
+
