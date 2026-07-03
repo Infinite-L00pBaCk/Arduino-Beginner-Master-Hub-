@@ -114,3 +114,7 @@ An array of 7 LEDs arranged to display numbers 0-9.
 ### 28. Membrane Keypad
 A flat array of buttons used for number and code entry.
 
+
+### 29. RFID Reader
+Reads wireless smart cards and key fobs using radio frequencies.
+
