@@ -118,3 +118,7 @@ A flat array of buttons used for number and code entry.
 ### 29. RFID Reader
 Reads wireless smart cards and key fobs using radio frequencies.
 
+
+### 30. IR Receiver
+Decodes infrared flashes from devices like a TV remote.
+
