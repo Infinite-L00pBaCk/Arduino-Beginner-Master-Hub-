@@ -126,3 +126,7 @@ Decodes infrared flashes from devices like a TV remote.
 ### 31. Shift Register
 Expands the number of digital output pins on your Arduino.
 
+
+### 32. Voltage Regulator
+Maintains a constant output voltage regardless of input changes.
+
