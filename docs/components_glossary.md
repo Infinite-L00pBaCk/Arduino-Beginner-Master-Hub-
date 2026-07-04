@@ -122,3 +122,7 @@ Reads wireless smart cards and key fobs using radio frequencies.
 ### 30. IR Receiver
 Decodes infrared flashes from devices like a TV remote.
 
+
+### 31. Shift Register
+Expands the number of digital output pins on your Arduino.
+
