@@ -130,3 +130,7 @@ Expands the number of digital output pins on your Arduino.
 ### 32. Voltage Regulator
 Maintains a constant output voltage regardless of input changes.
 
+
+### 33. ESP8266 Module
+Adds WiFi capabilities to your Arduino projects.
+
