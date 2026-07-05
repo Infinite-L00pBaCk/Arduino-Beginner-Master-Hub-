@@ -134,3 +134,7 @@ Maintains a constant output voltage regardless of input changes.
 ### 33. ESP8266 Module
 Adds WiFi capabilities to your Arduino projects.
 
+
+### 34. Bluetooth Module (HC-05)
+Allows wireless serial communication with phones and computers.
+
