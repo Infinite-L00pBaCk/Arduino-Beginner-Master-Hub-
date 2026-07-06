@@ -142,3 +142,7 @@ Allows wireless serial communication with phones and computers.
 ### 35. Soil Moisture Sensor
 Measures the conductivity of dirt to detect if plants need water.
 
+
+### 36. Water Level Sensor
+Detects depth by measuring resistance across parallel conductive traces.
+
