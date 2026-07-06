@@ -138,3 +138,7 @@ Adds WiFi capabilities to your Arduino projects.
 ### 34. Bluetooth Module (HC-05)
 Allows wireless serial communication with phones and computers.
 
+
+### 35. Soil Moisture Sensor
+Measures the conductivity of dirt to detect if plants need water.
+
