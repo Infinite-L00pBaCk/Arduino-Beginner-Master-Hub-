@@ -146,3 +146,7 @@ Measures the conductivity of dirt to detect if plants need water.
 ### 36. Water Level Sensor
 Detects depth by measuring resistance across parallel conductive traces.
 
+
+### 37. Laser Diode
+Emits a highly focused, concentrated beam of light.
+
