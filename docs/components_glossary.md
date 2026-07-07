@@ -150,3 +150,7 @@ Detects depth by measuring resistance across parallel conductive traces.
 ### 37. Laser Diode
 Emits a highly focused, concentrated beam of light.
 
+
+### 38. Joystick Module
+Provides 2-axis analog input and a push button, like a game controller.
+
