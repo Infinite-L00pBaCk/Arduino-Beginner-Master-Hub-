@@ -150,6 +150,14 @@ Detects depth by measuring resistance across parallel conductive traces.
 ### 37. Laser Diode
 Emits a highly focused, concentrated beam of light.
 
+## 38. Logic Level Shifter
+Description: Safely converts signals between devices operating at different voltages (typically 5V and 3.3V).
+
+## 40. Motor Driver Module (e.g., L298N or L293D)
+Description: Act as a high-current amplifier that allows low-power Arduino pins to control the speed and direction of high-power DC motors or stepper motors.
+
+
+
 
 ### 38. Joystick Module
 Provides 2-axis analog input and a push button, like a game controller.
