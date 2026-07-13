@@ -156,9 +156,10 @@ Description: Safely converts signals between devices operating at different volt
 ## 40. Motor Driver Module (e.g., L298N or L293D)
 Description: Act as a high-current amplifier that allows low-power Arduino pins to control the speed and direction of high-power DC motors or stepper motors.
 
+## 41. Gas Sensor (MQ Series, e.g., MQ-2)
+Description: Detects the presence and concentration of various gases in the air, such as LPG, smoke, propane, methane, and carbon monoxide.
 
+## 41. OLED Display (e.g., SSD1306)
+Description: A crisp, power-efficient miniature screen used to display complex graphics, custom fonts, and data readouts without requiring a backlight.
 
-
-### 38. Joystick Module
-Provides 2-axis analog input and a push button, like a game controller.
 
