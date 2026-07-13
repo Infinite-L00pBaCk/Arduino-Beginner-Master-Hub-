@@ -159,7 +159,7 @@ Description: Act as a high-current amplifier that allows low-power Arduino pins 
 ## 41. Gas Sensor (MQ Series, e.g., MQ-2)
 Description: Detects the presence and concentration of various gases in the air, such as LPG, smoke, propane, methane, and carbon monoxide.
 
-## 41. OLED Display (e.g., SSD1306)
+## 42. OLED Display (e.g., SSD1306)
 Description: A crisp, power-efficient miniature screen used to display complex graphics, custom fonts, and data readouts without requiring a backlight.
 
 
