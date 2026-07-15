@@ -168,4 +168,11 @@ Description: A battery-backed clock chip that keeps accurate track of the curren
 ## 44. Piezo Buzzer
 Description: A simple audio component that can emit tones, beeps, and simple melodies by converting electrical signals into sound waves.
 
+## 45. Sound Sensor Module (e.g., KY-038)
+Description: Detects ambient noise levels or specific sound spikes. This is a great choice if you're building a voice-controlled obstac
+
+## 46. Joystick Module (e.g., KY-023)
+Description: Provides two-axis analog input (X and Y) plus a central digital push-button. If you ever expand the component library of your web-based Arduino simulator, this is a highly interactive and heavily requested input device for beginners to play with.
+
+
 
