@@ -226,3 +226,13 @@ Contains red, green, and blue light-emitting diodes in a single package. By adju
 ## 45. Micro SD Card Module
 Allows the Arduino to read and write data to a standard microSD card using SPI communication. Essential for data logging, storing large arrays, or keeping project data saved offline.
 [Explore Micro SD Card Module in detail](https://en.wikipedia.org/wiki/SD_card)
+
+
+## 46. Accelerometer and Gyroscope Module (e.g., MPU6050)
+Measures acceleration and rotational velocity, perfect for keeping drones stable, building self-balancing robots, or adding motion tracking to your projects. 
+[Explore Accelerometer in detail](https://en.wikipedia.org/wiki/Accelerometer)
+
+
+## 47. Rotary Encoder
+An electro-mechanical input device that provides infinite rotation while measuring the direction and amount of turn, often featuring a built-in push button for menu navigation.
+[Explore Rotary Encoder in detail](https://en.wikipedia.org/wiki/Rotary_encoder)
