@@ -236,3 +236,13 @@ Measures acceleration and rotational velocity, perfect for keeping drones stable
 ## 47. Rotary Encoder
 An electro-mechanical input device that provides infinite rotation while measuring the direction and amount of turn, often featuring a built-in push button for menu navigation.
 [Explore Rotary Encoder in detail](https://en.wikipedia.org/wiki/Rotary_encoder)
+
+
+## 48. Barometric Pressure Sensor (e.g., BMP280)
+Measures atmospheric pressure and temperature, allowing you to calculate precise altitude deviations for weather stations or flight systems.
+[Explore Barometric Pressure Sensor in detail](https://en.wikipedia.org/wiki/Barometer)
+
+
+## 49. Active Piezo Buzzer
+Differs from a passive buzzer by generating a fixed-frequency audible tone automatically as soon as direct current power is applied.
+[Explore Active Piezo Buzzer in detail](https://en.wikipedia.org/wiki/Buzzer)
