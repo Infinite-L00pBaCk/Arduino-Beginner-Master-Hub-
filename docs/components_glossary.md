@@ -246,3 +246,13 @@ Measures atmospheric pressure and temperature, allowing you to calculate precise
 ## 49. Active Piezo Buzzer
 Differs from a passive buzzer by generating a fixed-frequency audible tone automatically as soon as direct current power is applied.
 [Explore Active Piezo Buzzer in detail](https://en.wikipedia.org/wiki/Buzzer)
+
+
+## 50. Infrared (IR) Transmitter
+Emits modulated infrared light waves to control external appliances like TVs and air conditioners wirelessly.
+[Explore IR Transmitter in detail](https://en.wikipedia.org/wiki/Infrared_blaster)
+
+
+## 51. Optocoupler (Optoisolator)
+Transfers electrical signals between two isolated circuits using a short optical path, protecting sensitive microcontrollers from high voltages.
+[Explore Optocoupler in detail](https://en.wikipedia.org/wiki/Opto-isolator)
