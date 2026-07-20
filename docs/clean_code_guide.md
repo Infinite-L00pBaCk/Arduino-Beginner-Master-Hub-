@@ -165,15 +165,44 @@ const int DARKNESS_THRESHOLD = 400;
 void loop() {
   int sensorValue = analogRead(SENSOR_PIN); // Read light level from photoresistor
 }
-📋 Pre-Flight Checklist Before Sharing Code
-[ ] Did I press Ctrl + T (or Cmd + T) to auto-format?
+## 9. Save RAM: Use the `F()` Macro for Text
+When you use `Serial.print("Hello World");`, the Arduino stores that text in its precious dynamic memory (SRAM). If you have lots of text, your Arduino will crash! You can force the text into Flash memory instead by wrapping it in `F()`.
 
-[ ] Are my variables named clearly using camelCase/UPPERCASE?
+❌ **Bad:**
+```cpp
+Serial.println("System Initialized. Waiting for connection...");
+```
 
-[ ] Are pin numbers defined using const byte or #define?
+✅ **Good:**
+```cpp
+Serial.println(F("System Initialized. Waiting for connection..."));
+```
 
-[ ] Is my code broken down into small, clear helper functions?
+## 10. Use `bool` for True/False Flags
+If a variable only ever needs to be ON or OFF, YES or NO, `true` or `false` — use a boolean! Beginners often use `int` (which takes 2 bytes and can hold up to 32,767) to just store a 0 or 1.
 
-[ ] Did I remove unnecessary delay() calls?
+❌ **Bad:**
+```cpp
+int isLightOn = 1;
+if (isLightOn == 1) {
+  // ...
+}
+```
 
-[ ] Did I add comments explaining complex parts?
+✅ **Good:**
+```cpp
+bool isLightOn = true;
+if (isLightOn) {
+  // ...
+}
+```
+
+---
+
+## 📋 Pre-Flight Checklist Before Sharing Code
+- [ ] Did I press `Ctrl + T` (or `Cmd + T`) to auto-format?
+- [ ] Are my variables named clearly using camelCase/UPPERCASE?
+- [ ] Are pin numbers defined using const byte or #define?
+- [ ] Is my code broken down into small, clear helper functions?
+- [ ] Did I remove unnecessary delay() calls?
+- [ ] Did I add comments explaining complex parts?
