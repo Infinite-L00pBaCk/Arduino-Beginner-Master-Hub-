@@ -91,6 +91,7 @@ A motor that can rotate to precise angles, usually between 0 and 180 degrees.
 ## 18. Stepper Motor
 A motor that rotates in discrete, precise steps.
 [Explore Stepper Motor in detail](https://en.wikipedia.org/wiki/Stepper_motor)
+**Used in:** [Project 12: Stepper Motor Basics](../projects/12_stepper_motor/), [Project 36: Stepper Motor](../projects/36_stepper_motor/)
 
 
 ## 19. DC Motor
@@ -146,6 +147,7 @@ A flat array of buttons used for number and code entry.
 ## 29. RFID Reader
 Reads wireless smart cards and key fobs using radio frequencies.
 [Explore RFID Reader in detail](https://en.wikipedia.org/wiki/Radio-frequency_identification)
+**Used in:** [Project 24: RFID Door Lock](../projects/24_rfid_reader/), [Project 37: RFID Reader](../projects/37_rfid_reader/)
 
 
 ## 30. IR Receiver
@@ -171,6 +173,7 @@ Adds WiFi capabilities to your Arduino projects.
 ## 34. Bluetooth Module (HC-05)
 Allows wireless serial communication with phones and computers.
 [Explore Bluetooth Module in detail](https://en.wikipedia.org/wiki/Bluetooth)
+**Used in:** [Project 38: Bluetooth HC-05](../projects/38_bluetooth_hc05/)
 
 
 ## 35. Soil Moisture Sensor
@@ -181,6 +184,7 @@ Measures the conductivity of dirt to detect if plants need water.
 ## 36. Water Level Sensor
 Detects depth by measuring resistance across parallel conductive traces.
 [Explore Water Level Sensor in detail](https://en.wikipedia.org/wiki/Level_sensor)
+**Used in:** [Project 22: Water Level](../projects/22_water_level/), [Project 40: Water Level Sensor](../projects/40_water_level_sensor/)
 
 
 ## 37. Laser Diode
@@ -196,6 +200,7 @@ Safely converts signals between devices operating at different voltages (typical
 ## 39. Motor Driver Module (e.g., L298N or L293D)
 Acts as a high-current amplifier that allows low-power Arduino pins to control the speed and direction of high-power DC motors or stepper motors.
 [Explore Motor Driver Module in detail](https://en.wikipedia.org/wiki/Motor_controller)
+**Used in:** [Project 35: L298N Motor Driver](../projects/35_l298n_motor_driver/)
 
 
 ## 40. Gas Sensor (MQ Series, e.g., MQ-2)
@@ -207,6 +212,7 @@ Detects the presence and concentration of various gases in the air, such as LPG,
 ## 41. OLED Display (e.g., SSD1306)
 A crisp, power-efficient miniature screen used to display complex graphics, custom fonts, and data readouts without requiring a backlight.
 [Explore OLED Display in detail](https://en.wikipedia.org/wiki/OLED)
+**Used in:** [Project 39: OLED Display](../projects/39_oled_display/)
 
 
 ## 42. Sound Sensor Module (e.g., KY-038)
@@ -217,6 +223,7 @@ Detects ambient noise levels or specific sound spikes. This is a great choice if
 ## 43. Joystick Module (e.g., KY-023)
 Provides two-axis analog input (X and Y) plus a central digital push-button. This is a highly interactive and heavily requested input device for beginners to play with.
 [Explore Joystick Module in detail](https://en.wikipedia.org/wiki/Joystick)
+**Used in:** [Project 16: Joystick Servo](../projects/16_joystick_servo/), [Project 34: Joystick Module](../projects/34_joystick_module/)
 
 
 ## 44. RGB LED
