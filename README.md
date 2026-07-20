@@ -60,6 +60,8 @@ Follow this structured path to go from zero to building your own interactive pro
 | | [Project 29: Real-Time Clock](./projects/29_rtc_module/) | Keep accurate time & alarms | ✅ |
 | | [Project 30: Temperature & Humidity](./projects/30_temperature_sensor/) | Monitor environment with DHT11 | ✅ |
 | | [Project 31: DC Motor Control](./projects/31_dc_motor/) | Spin a motor with a transistor | ✅ |
+| | [Project 32: IR Transmitter](./projects/32_ir_transmitter/) | Send infrared signals wirelessly | ✅ |
+| | [Project 33: MQ-2 Gas Sensor](./projects/33_gas_sensor/) | Detect gas & smoke with alarm | ✅ |
 ---
 
 ## 🤝 How to Contribute
