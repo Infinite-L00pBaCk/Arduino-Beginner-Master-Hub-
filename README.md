@@ -66,6 +66,9 @@ Follow this structured path to go from zero to building your own interactive pro
 | | [Project 35: L298N Motor Driver](./projects/35_l298n_motor_driver/) | Control high-power DC motors | ✅ |
 | | [Project 36: Stepper Motor](./projects/36_stepper_motor/) | Precise motor control | ✅ |
 | | [Project 37: RFID Reader](./projects/37_rfid_reader/) | Scan smart cards | ✅ |
+| | [Project 38: Bluetooth HC-05](./projects/38_bluetooth_hc05/) | Wireless communication | ✅ |
+| | [Project 39: OLED Display](./projects/39_oled_display/) | Display text and graphics | ✅ |
+| | [Project 40: Water Level Sensor](./projects/40_water_level_sensor/) | Read water depth | ✅ |
 ---
 
 ## 🤝 How to Contribute
