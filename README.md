@@ -62,6 +62,10 @@ Follow this structured path to go from zero to building your own interactive pro
 | | [Project 31: DC Motor Control](./projects/31_dc_motor/) | Spin a motor with a transistor | ✅ |
 | | [Project 32: IR Transmitter](./projects/32_ir_transmitter/) | Send infrared signals wirelessly | ✅ |
 | | [Project 33: MQ-2 Gas Sensor](./projects/33_gas_sensor/) | Detect gas & smoke with alarm | ✅ |
+| | [Project 34: Joystick Module](./projects/34_joystick_module/) | Two-axis analog input | ✅ |
+| | [Project 35: L298N Motor Driver](./projects/35_l298n_motor_driver/) | Control high-power DC motors | ✅ |
+| | [Project 36: Stepper Motor](./projects/36_stepper_motor/) | Precise motor control | ✅ |
+| | [Project 37: RFID Reader](./projects/37_rfid_reader/) | Scan smart cards | ✅ |
 ---
 
 ## 🤝 How to Contribute
