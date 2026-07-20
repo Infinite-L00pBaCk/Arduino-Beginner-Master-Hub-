@@ -58,6 +58,8 @@ Follow this structured path to go from zero to building your own interactive pro
 | | [Project 27: 4x4 Matrix Keypad](./projects/27_matrix_keypad/) | Read 16 buttons with 8 pins | ✅ |
 | | [Project 28: Sound Sensor Clapper](./projects/28_sound_sensor/) | Clap to toggle an LED | ✅ |
 | | [Project 29: Real-Time Clock](./projects/29_rtc_module/) | Keep accurate time & alarms | ✅ |
+| | [Project 30: Temperature & Humidity](./projects/30_temperature_sensor/) | Monitor environment with DHT11 | ✅ |
+| | [Project 31: DC Motor Control](./projects/31_dc_motor/) | Spin a motor with a transistor | ✅ |
 ---
 
 ## 🤝 How to Contribute
