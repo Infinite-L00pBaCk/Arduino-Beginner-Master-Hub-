@@ -201,6 +201,7 @@ Acts as a high-current amplifier that allows low-power Arduino pins to control t
 ## 40. Gas Sensor (MQ Series, e.g., MQ-2)
 Detects the presence and concentration of various gases in the air, such as LPG, smoke, propane, methane, and carbon monoxide.
 [Explore Gas Sensor in detail](https://en.wikipedia.org/wiki/Gas_detector)
+**Used in:** [Project 33: MQ-2 Gas Sensor](../projects/33_gas_sensor/)
 
 
 ## 41. OLED Display (e.g., SSD1306)
@@ -251,6 +252,7 @@ Differs from a passive buzzer by generating a fixed-frequency audible tone autom
 ## 50. Infrared (IR) Transmitter
 Emits modulated infrared light waves to control external appliances like TVs and air conditioners wirelessly.
 [Explore IR Transmitter in detail](https://en.wikipedia.org/wiki/Infrared_blaster)
+**Used in:** [Project 32: IR Transmitter](../projects/32_ir_transmitter/)
 
 
 ## 51. Optocoupler (Optoisolator)
