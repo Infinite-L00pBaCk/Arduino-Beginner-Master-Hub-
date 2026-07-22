@@ -54,21 +54,31 @@ Follow this structured path to go from zero to building your own interactive pro
 | | [Project 22: Water Level Sensor](./projects/22_water_level/) | Detect water depth & flooding | ✅ |
 | | [Project 24: RFID Door Lock](./projects/24_rfid_reader/) | Scan smart cards and fobs | ✅ |
 | **🕹️ 8: Community Projects**| [Project 25: Reaction Time Game](./projects/25_reaction_time_game/) | Test your reflexes (Community) | ✅ |
-| | [Project 26: Soil Moisture Sensor](./projects/26_soil_moisture/) | Smart plant watering monitor | ✅ |
-| | [Project 27: 4x4 Matrix Keypad](./projects/27_matrix_keypad/) | Read 16 buttons with 8 pins | ✅ |
-| | [Project 28: Sound Sensor Clapper](./projects/28_sound_sensor/) | Clap to toggle an LED | ✅ |
-| | [Project 29: Real-Time Clock](./projects/29_rtc_module/) | Keep accurate time & alarms | ✅ |
+| **🌱 9: Environmental** | [Project 26: Soil Moisture Sensor](./projects/26_soil_moisture/) | Smart plant watering monitor | ✅ |
 | | [Project 30: Temperature & Humidity](./projects/30_temperature_sensor/) | Monitor environment with DHT11 | ✅ |
-| | [Project 31: DC Motor Control](./projects/31_dc_motor/) | Spin a motor with a transistor | ✅ |
-| | [Project 32: IR Transmitter](./projects/32_ir_transmitter/) | Send infrared signals wirelessly | ✅ |
 | | [Project 33: MQ-2 Gas Sensor](./projects/33_gas_sensor/) | Detect gas & smoke with alarm | ✅ |
+| | [Project 40: Water Level Sensor](./projects/40_water_level_sensor/) | Read water depth | ✅ |
+| | [Project 48: Advanced Soil Moisture](./projects/48_advanced_soil_moisture/) | Precision moisture readings | ✅ |
+| **⌨️ 10: Advanced Inputs** | [Project 27: 4x4 Matrix Keypad](./projects/27_matrix_keypad/) | Read 16 buttons with 8 pins | ✅ |
+| | [Project 28: Sound Sensor Clapper](./projects/28_sound_sensor/) | Clap to toggle an LED | ✅ |
 | | [Project 34: Joystick Module](./projects/34_joystick_module/) | Two-axis analog input | ✅ |
+| | [Project 37: RFID Reader](./projects/37_rfid_reader/) | Scan smart cards | ✅ |
+| | [Project 42: Sound Sensor (Advanced)](./projects/42_advanced_sound/) | Advanced audio thresholds | ✅ |
+| | [Project 44: 4x4 Keypad (Advanced)](./projects/44_advanced_keypad/) | Custom keypad mapping | ✅ |
+| **⚙️ 11: Motors & Drivers**| [Project 31: DC Motor Control](./projects/31_dc_motor/) | Spin a motor with a transistor | ✅ |
 | | [Project 35: L298N Motor Driver](./projects/35_l298n_motor_driver/) | Control high-power DC motors | ✅ |
 | | [Project 36: Stepper Motor](./projects/36_stepper_motor/) | Precise motor control | ✅ |
-| | [Project 37: RFID Reader](./projects/37_rfid_reader/) | Scan smart cards | ✅ |
+| | [Project 43: Rotary Encoder](./projects/43_rotary_encoder/) | Infinite dial rotation | ✅ |
+| | [Project 45: Relay Module (Advanced)](./projects/45_advanced_relay/) | High-load switching | ✅ |
+| **📡 12: Displays & Comms**| [Project 29: Real-Time Clock](./projects/29_rtc_module/) | Keep accurate time & alarms | ✅ |
+| | [Project 32: IR Transmitter](./projects/32_ir_transmitter/) | Send infrared signals wirelessly | ✅ |
 | | [Project 38: Bluetooth HC-05](./projects/38_bluetooth_hc05/) | Wireless communication | ✅ |
 | | [Project 39: OLED Display](./projects/39_oled_display/) | Display text and graphics | ✅ |
-| | [Project 40: Water Level Sensor](./projects/40_water_level_sensor/) | Read water depth | ✅ |
+| | [Project 46: RTC DS3231 (Advanced)](./projects/46_rtc_ds3231/) | High-precision timekeeping | ✅ |
+| **💾 13: Data & Biometrics**| [Project 41: PIR Motion (Advanced)](./projects/41_pir_advanced/) | Advanced movement tracking | ✅ |
+| | [Project 47: SD Card Module](./projects/47_sd_card/) | Read and write data logs | ✅ |
+| | [Project 49: Flame Sensor (Advanced)](./projects/49_flame_advanced/) | Multi-sensor fire detection | ✅ |
+| | [Project 50: Pulse Sensor](./projects/50_pulse_sensor/) | Read human heart rates | ✅ |
 ---
 
 ## 🤝 How to Contribute
