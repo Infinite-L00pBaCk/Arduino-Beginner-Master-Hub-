@@ -111,3 +111,7 @@ This terrifying red error just means your computer couldn't talk to the Arduino 
 1. Check that you selected the correct Board (`Tools > Board > Arduino Uno`).
 2. Check that you selected the correct Port (`Tools > Port`).
 3. Make sure nothing is plugged into Digital Pins 0 (RX) and 1 (TX) while uploading! Those pins are used for the USB communication.
+
+
+### Can I use an Arduino Nano?
+Yes, the code provided works on Nano as well as Uno.
