@@ -315,3 +315,7 @@ Detects fire or other wavelength of light.
 ## 61. Pulse Sensor
 Used to measure heart rate.
 **Used in:** [Project 50: Heart Rate Pulse Sensor](../projects/50_pulse_sensor/)
+
+
+## 2026 Additions
+- **OLED**: Organic Light Emitting Diode display.
