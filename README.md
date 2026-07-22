@@ -198,16 +198,3 @@ Don't remember how to write a specific command? We've got you covered:
 <!-- Streak Recovery 2026-06-18 -->
 
 
-## Projects 41-45
-- Project 41: PIR Motion Sensor
-- Project 42: Sound Sensor
-- Project 43: Rotary Encoder
-- Project 44: 4x4 Keypad
-- Project 45: Relay Module
-
-## Projects 46-50
-- Project 46: RTC DS3231
-- Project 47: SD Card Module
-- Project 48: Advanced Soil Moisture
-- Project 49: Flame Sensor
-- Project 50: Pulse Sensor
