@@ -24,3 +24,7 @@ Encountering errors is a normal part of learning to code and build circuits. Don
 
 > [!TIP]
 > **The Golden Rule of Debugging:** When in doubt, unplug everything, open a blank sketch, and rebuild the circuit step-by-step. Adding components one at a time helps isolate the problem!
+
+
+## Serial Port Not Found
+Ensure you have installed the CH340 drivers if using a clone board.
